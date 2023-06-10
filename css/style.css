@@ -143,3 +143,133 @@ li {
 
 /*main page*/
 
+.container1 {
+	margin-left: 52px;
+}
+
+.div1 {
+	height: 50px;
+	width: 50px;
+	background-color: #5012D5;
+	color: #84FF81;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 28px;
+	padding: 8px 11px;
+	margin-bottom: 18px;
+}
+
+.h30 {	
+	font-weight: 700;
+	font-size: 20px;
+	line-height: 24px;
+	color: #4E6FAE;
+	margin-bottom: 14px;
+}
+
+.img2 {
+	display:inline-block;
+	height: 447px;
+	width: 280;
+	vertical-align: top;
+	margin-right: 66px;
+}
+
+.div2 {
+	display: inline-block;
+	vertical-align: top;
+	font-family: 'GL Kirovi';
+	font-style: normal;
+	font-weight: 700;
+	font-size: 16px;
+	line-height: 19px;
+	width: 600px;
+    height: 353px;
+	color: #4E6FAE;
+	margin-bottom: 155px;
+}
+
+.p2 {
+	margin-bottom: 15px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+}
+
+.para {
+	
+	width: 1021px;
+	height: 148px;
+	margin-top: 32px;
+	font-weight: 400;
+	font-size: 16px;
+	line-height: 19px;
+	color: #4E6FAE;
+	margin-bottom: 143px;
+}
+
+.h2 {
+	color: #4E6FAE;
+	font-weight: 400;
+	font-size: 24px;
+	line-height: 29px;
+	margin-bottom: 5px;
+}
+
+.foot {
+	margin-right: 41px;
+
+}
+
+/*contact style*/
+
+.div5 {
+	background-color: #E7E7E7;
+	
+	margin-bottom: 104px;
+}
+
+.div6 {;
+	display: inline-block;
+	margin: 93px 40px 455px 162px;
+	vertical-align: top;
+}
+
+.h24 {
+	
+	margin:0px 40px 23px 0px;
+	font-weight: 700;
+    font-size: 36px;
+    line-height: 44px;
+    
+    vertical-align: top;
+    color: #4E6FAE;
+}
+
+.h25 {
+	color: #7E8898;
+	margin: 27px 207px 11px 0px;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 24px;
+	width: 434px;
+	height: 34px;
+
+
+}
+
+.div7 {
+	margin: 93px 40px 93px 40px;
+    display: inline-block;
+    width: 100px;
+	height: 100px;
+	vertical-align: top;
+	
+
+}
+
+.foot1 {
+	margin-right: 41px;	
+	margin-left: 194px;
+}
