@@ -35,6 +35,7 @@ li {
 	color: #4E6FAE;
 }
 
+
 .container {
 	width: 1052px;
 	margin: 0px auto;
@@ -160,6 +161,7 @@ li {
 }
 
 .h30 {	
+	font-family: "BPG Nostalgia", sans-serif;
 	font-weight: 700;
 	font-size: 20px;
 	line-height: 24px;
@@ -190,6 +192,7 @@ li {
 }
 
 .p2 {
+	font-family: "BPG Nostalgia", sans-serif;
 	margin-bottom: 15px;
 	font-weight: 400;
 	font-size: 16px;
@@ -198,7 +201,7 @@ li {
 }
 
 .para {
-	
+	font-family: "BPG Nostalgia", sans-serif;
 	width: 1021px;
 	height: 148px;
 	margin-top: 32px;
@@ -210,6 +213,8 @@ li {
 }
 
 .h2 {
+	
+	font-family: "BPG Square", sans-serif;
 	color: #4E6FAE;
 	font-weight: 400;
 	font-size: 24px;
